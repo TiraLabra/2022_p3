@@ -1,6 +1,6 @@
 % Datastructures and Algorithms Lab
 % Introductory lecture slides for BSc students
-% Hannu Kärnä - 10.5.2021
+% Hannu Kärnä - 19.1.2022
 
 # Course assistants
 
@@ -9,7 +9,7 @@
 - Contact via e-mail or the course telegram channel
 
 - Telegram channel https://t.me/tkttiralabra/ (will contain discourse in Finnish)
-- Course page https://tiralabra.github.io/2021_alkukesa/en
+- Course page https://tiralabra.github.io/2022_p3/en
 
 # What?
 
@@ -28,7 +28,7 @@
 
 # Course content
 
-- The programming language to be used has to be accepted by a course assistant. At least Java will be accepted
+- The programming language to be used has to be accepted by a course assistant. At least Java and Python will be accepted
     - Ask a course assistant if you prefer some other languages
     - Note that testing and test coverage reporting is required no matter the language
 - **Git** version control and **GitHub** is used
@@ -81,11 +81,12 @@
     - The intention is to get familiar with reading code written by others
     - It is also important to get feedback 
     - Maximum points for each review is **4**
+    - Requirements for grade 5 include making both reviews
 
 # Conduct of the course
 
 - At the end of the course there will be a mandatory **demo session**
-    - Each student presents their project for about 5 minutes
+    - Each student presents their project for about 10 minutes
     - Every student is present for the entire session
     - The project does not have to be completely done at the demo session
 - There is **no course exam**
@@ -108,5 +109,5 @@
 # Thank you!
 
 - **Welcome to the course!**
-- Most information about the course can be found at: https://tiralabra.github.io/2021_alkukesa/en
-    - It's a good idea to read through the entire site!
+- Most information about the course can be found at: https://tiralabra.github.io/2022_p3/en
+    - It's a good idea to read through the entire site! **The English course instructions are not up to date. You should read the Finnish course page too.**
