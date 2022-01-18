@@ -1,6 +1,6 @@
 % Aineopintojen harjoitustyö: Tietorakenteet ja algoritmit (Tiralabra)
 % Hannu Kärnä
-% 3.11.2021
+% 19.1.2022
 
 # Ohjaajat
 
@@ -9,11 +9,11 @@
 - Yhteyttä sähköpostilla tai telegrammissa kurssikanavalla
 
 - Telegram-kanava https://t.me/tkttiralabra/
-- Kurssisivu https://tiralabra.github.io/2021_p2/
+- Kurssisivu https://tiralabra.github.io/2022_p3/
 
 # Mistä kyse?
 
-- Kurssilla toteutetaan itse jokin "vaativaa" algoritmia/algoritmeja käyttävä ohjelma ja joissain tapauksissa myös ohjelman käyttämät tietorakenteet. Esitietoihin kuuluvalla Tira-kurssilla opitut asiat eivät täytä tätä määritelmää. Esim. täysin brute force sudoku-ratkaisija ei sovellu aiheeksi, se on joskus ollut tehtävänä jo Ohjelmoinnin jatkokurssilla.
+- Kurssilla toteutetaan itse jokin "vaativaa" algoritmia / algoritmeja käyttävä ohjelma ja aiheesta riippuen myös ohjelman käyttämiä tietorakenteita. Esitietoihin kuuluvalla Tira-kurssilla opitut asiat eivät täytä tätä määritelmää. Esim. täysin brute force sudoku-ratkaisija ei sovellu aiheeksi, se on joskus ollut tehtävänä jo Ohjelmoinnin jatkokurssilla.
 
 # Esitietovaatimukset
 
@@ -57,11 +57,11 @@
 # Kurssin kulku
 
 - **Deadlinet** kurssisivun aikataulun mukaan.
-    - Deadlinestä annetaan 0-4 pistettä kunkin deadlinen tehtävien mukaisesti
-    - Palautukset tehdään *pushaamalla* projektin kunkin hetkinen tilanne GitHubiin
+    - Kunkin viikkopalautuksen perusteella saa 0-2 pistettä etenemisestä aikataulun mukaan.
+    - Palautukset tehdään *pushaamalla* projektin kunkin hetkinen tilanne GitHubiin.
         - Ei sähköpostipalautuksia tms.
-    - Suuri osa pisteistä -- ja siten arvosanasta -- tulevat deadlinejen ja koodikatselmusten perusteella
-    - Ohjaaja antavaa palautetta edistymisestä joka deadlinen jälkeen -- perusteellisempaa palautetta kannattaa pyytää sähköpostilla tai telegrammissa
+    - Suuri osa pisteistä -- ja siten arvosanasta -- tulevat deadlinejen ja koodikatselmusten perusteella.
+    - Ohjaaja antaa palautetta edistymisestä joka deadlinen jälkeen -- perusteellisempaa palautetta kannattaa pyytää sähköpostilla tai telegrammissa.
     - Lisäaikaa saa **hyvällä syyllä**, **etukäteen pyytämällä**
 
 # Kurssin kulku
@@ -74,10 +74,12 @@
 
 - Deadline 4 ja 5 yhteydessä **koodikatselmointi**
     - Jokainen opiskelija saa toisen opiskelijan projektin katselmoitavaksi
+    - Katselmoitava projekti pyritään valitsemaan niin, että sen tutkimisesta on hyötyä oman työn tekemisessä
     - Opiskelijat kirjoittavat palautetta toisen projektista
     - Tarkoitus oppia lukemaan ja ymmärtämään toisten koodia
     - Tärkeitä myös palautteen saajalle
-    - Maksimipisteet yhdestä katselmoinnista on **4**.
+    - Maksimipisteet yhdestä katselmoinnista on **4**
+    - Arvosanan 5 vaatimuksiin kuuluu, että molemmat katselmoinnit on tehty
 
 # Kurssin kulku
 
@@ -90,11 +92,11 @@
 # Motivointi
 
 - Kyseessä on yksi LuK-tutkinnon mukavimmista kursseista - voit toteuttaa mitä itse haluat!
-- Jos jäät jumiin, pyydä apua ohjaajalta matalalla kynnyksellä!
+- Jos jäät jumiin, pyydä apua ohjaajalta matalalla kynnyksellä. Tehokas opiskelu on yhdistelmä itse tekemistä ja neuvojen hyödyntämistä.
 - Tavallisesti kurssien keskeyttämisestä ei juuri seurauksia -- harjoitustyöt poikkeus
     - Kurssille pääsy vaikeutuu keskeyttämisen jälkeen
 
-# Mainos
+# Valmiita projektipohjia Javalla
 
 - Syksyllä 2019 ohtuprojekteina tehtiin kaksi uutta prjektipohjaa tiralabraa varten
     - Shakki ja
@@ -104,7 +106,7 @@
 # Kiitos!
 
 - **Tervetuloa kurssille!**
-- Kaikki tarvittava löytyy kurssisivulta: https://tiralabra.github.io/2021_p2/
+- Kaikki tarvittava löytyy kurssisivulta: https://tiralabra.github.io/2022_p3/
     - Kannattaa lukea koko sivusto läpi tarkkaan!
 
 # Kysymyksiä?
