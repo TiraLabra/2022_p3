@@ -74,6 +74,7 @@ Tietorakenteita on monenlaisia, mikä olisi paras kuhunkin ongelmaan? Vertaile n
 Toteuta yksi (tai useampi, riippuen vaativuudesta) signaalinkäsittelyalgoritmi ja raportoi tuloksista. Useat signaalinkäsittelyn algoritmit hyödyntävät matriisilaskentaa ja lineaarialgebraa, joten niiden tunteminen on hyödyksi.
 
 ### Muuta kivaa
+* Tieteellinen laskin. Laskin tulostaa annetun lausekkeen arvon. Arvoja voi tallettaa muuttujiin. Lauseke voi sisältää lukuarvoja, muuttujia, peruslaskutoimituksia, sulkuja ja joitakin valmiita funktioita, kuten sqrt ja sin. Lausekkeen voi muuntaa helposti laskettavaan muotoon [shunting-yard algorimtilla.](https://en.wikipedia.org/wiki/Shunting-yard_algorithm)
 * Rahtifirma NopsaToimitus haluaa optimoida konttikuljetuksissa käytettävän tilan. Suunnittele miten voidaan täyttää yksi tai useampi kontti mahdollisimman tehokkaasti, jos tiedetään pakettien määrä ja koot. Ideaa voi hakea kuutiopalapelin ratkaisijasta.
 
 * Säännöllisten lausekkeiden tulkki tai kääntäjä. Tulkki sovittaa lauseketta merkkijonoon ja kertoo, kuuluuko se lausekkeen määräämään kieleen. Kääntäjä tuottaa DFA:n, jolle merkkijono annetaan, ja saadaan sama tulos kuin edellä. [Säännölliset lausekkeet](https://blog.stevenlevithan.com/archives/10-reasons-to-learn-and-use-regular-expressions) 
